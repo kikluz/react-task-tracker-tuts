@@ -68,3 +68,39 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+React JS Crash Course 2021
+Why Would You Use React?
+
+Structure the view layer of your application
+Reusable components with their own state
+JSX-Dynamic marrkup
+Interact UIs with the Virtual DOM
+Performance & testing
+Very popular in the industry
+Create an app
+npx create-react-app tack-tracker
+41:00
+install icon with npm install react-icons
+1:14
+
+to be deploy run
+npm run build
+
+Install server -s build
+sudo npm i -g serve
+After is installed run it with
+serve -s build -p 8000
+
+Making a Muckup Server
+json-server
+
+Install Local
+npm i json-server
+
+run the server
+npm run server
+
+Notes :
+we need to comunicate betwenn the server with the app
+1:34
